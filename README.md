@@ -2,7 +2,6 @@
 Fatec Araras | Atividade 3 TESI I - DAO Pattern (parte 1)
 
 O objetivo desta atividade é reforçar nosso entendimento sobre o paradigma de orientação à objetos e o uso da linguagem de programação Java.
-
 Nesta atividade você deverá criar os artefatos necessários para fazer a persistência de dados de uma aplicação de gerenciamento de contatos.
 Artefatos a serem criados:
 Classe para gerenciar os contatos; o contato deverá possuir nome, apelido, email, telefone, endereço, empresa e observações.
