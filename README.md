@@ -1,6 +1,5 @@
 # DAOPattern
 Fatec Araras
-
 Atividade 3 TESI I - DAO Pattern (parte 1)
 
 O objetivo desta atividade é reforçar nosso entendimento sobre o paradigma de orientação à objetos e o uso da linguagem de programação Java.
